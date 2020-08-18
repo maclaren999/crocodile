@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crocodile</string>
+    <string name="nextBottomText">GO!</string>
+    <string name="nextWordText">CROCODILE</string>
+    <string name="hard">hard</string>
+    <string name="normal">normal</string>
+</resources>

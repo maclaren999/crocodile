@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999586737543",
+    "firebase_url": "https://crocodile-31719.firebaseio.com",
+    "project_id": "crocodile-31719",
+    "storage_bucket": "crocodile-31719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999586737543:android:1944ee62bdecb4ca303722",
+        "android_client_info": {
+          "package_name": "com.example.crocodile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999586737543-q09opf8ka0e8j0p975e9hv3me28dgfov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crocodile",
+            "certificate_hash": "d3ac2bd6cf8c8492d5abe3423345d00da1dcea39"
+          }
+        },
+        {
+          "client_id": "999586737543-6019papfga3prb4aajbmik8hbhegl83j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-AdM72Bb38vxA5D7Hu_KsT7AsFe0ZNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999586737543-6019papfga3prb4aajbmik8hbhegl83j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
